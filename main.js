@@ -1,4 +1,4 @@
-var canvas = new fabric.canvas('myCanvas')
+var canvas = document.getElementById('myCanvas')
 
 block_y=1;
 block_x=1;
